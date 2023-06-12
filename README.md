@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Tal464 - Tal Carmeli
 - 🌱 I’m currently a 3rd year student of computer science in Reichman University
-- 📫 This repository includes recent project I did
+- 📫 This repository includes recent projects I did
